@@ -1,0 +1,43 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.note {
+    font-size: 22px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#size {
+    font-size: 22px;
+    font-weight: bold;
+    color: crimson;
+}
+
+
+#footer {
+    font-size: 18px;
+    color: rgb(248, 165, 137);
+    background-color: rgb(191, 0, 255);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding: 4px;
+    line-height: 8px;
+    text-align: center;
+}
+
+canvas{
+background-color: cadetblue;
+border-width: 4px;
+border-color: darkcyan;
+border-style:solid ;
+border-radius: 10px;
+}
+
+video{
+    border-radius: 30px;
+}
